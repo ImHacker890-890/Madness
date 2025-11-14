@@ -7,3 +7,17 @@
 Madness uses a simple architecture built around the "requests" module, which sends a request about the site's status to the server, thereby overloading it.
 ## Desing
 Madness is designed in a green hacker style. It features an ASCII title, a skull, and a menu.
+<img src="./images/main-screen.jpg">
+# Start
+1. Clone the repository:
+```bash
+git clone https://github.com/ImHacker890-890/Madness
+```
+2. Install requirements.txt:
+```bash
+pip install requirements.txt
+```
+3. Launch the programm:
+```bash
+python main.py
+```
